@@ -1,0 +1,19 @@
+
+dialog.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+dialog1
+  rotate: false
+  xy: 1, 40
+  size: 320, 155
+  orig: 320, 155
+  offset: 0, 0
+  index: -1
+dialog2
+  rotate: false
+  xy: 323, 1
+  size: 127, 194
+  orig: 127, 194
+  offset: 0, 0
+  index: -1

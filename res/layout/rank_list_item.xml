@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout android:layout_width="fill_parent"
+	android:layout_height="wrap_content" android:minHeight="40dp"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+	<TextView android:textSize="18.0sp"
+		android:id="@+id/Id" android:layout_width="40dp"
+		android:layout_height="20dp" android:layout_marginLeft="25.0dp"
+		android:layout_centerVertical="true" android:gravity="center"/>
+	<TextView android:textSize="18.0sp"
+		android:id="@+id/Name" android:layout_width="135dp"
+		android:layout_height="20dp" android:layout_toRightOf="@id/Id" android:gravity="center"
+		android:layout_centerVertical="true"/>
+	<TextView android:textSize="18.0sp"
+		android:id="@+id/Time" android:layout_width="60dp"
+		android:layout_height="20dp"
+		android:layout_toRightOf="@id/Name" android:gravity="center"
+		android:layout_centerVertical="true"/>
+</RelativeLayout>

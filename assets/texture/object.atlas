@@ -1,0 +1,166 @@
+
+object.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+glad
+  rotate: false
+  xy: 1, 423
+  size: 224, 512
+  orig: 224, 512
+  offset: 0, 0
+  index: -1
+board7
+  rotate: false
+  xy: 1, 64
+  size: 22, 357
+  orig: 22, 357
+  offset: 0, 0
+  index: -1
+board6
+  rotate: false
+  xy: 227, 617
+  size: 22, 318
+  orig: 22, 318
+  offset: 0, 0
+  index: -1
+board2
+  rotate: false
+  xy: 251, 905
+  size: 226, 30
+  orig: 226, 30
+  offset: 0, 0
+  index: -1
+board3
+  rotate: false
+  xy: 251, 877
+  size: 225, 26
+  orig: 225, 26
+  offset: 0, 0
+  index: -1
+board5
+  rotate: false
+  xy: 25, 393
+  size: 315, 28
+  orig: 315, 28
+  offset: 0, 0
+  index: -1
+board4
+  rotate: false
+  xy: 25, 365
+  size: 271, 26
+  orig: 271, 26
+  offset: 0, 0
+  index: -1
+board1
+  rotate: false
+  xy: 251, 849
+  size: 181, 26
+  orig: 181, 26
+  offset: 0, 0
+  index: -1
+ufo
+  rotate: false
+  xy: 25, 293
+  size: 122, 70
+  orig: 122, 70
+  offset: 0, 0
+  index: -1
+bee1
+  rotate: false
+  xy: 251, 772
+  size: 80, 75
+  orig: 80, 75
+  offset: 0, 0
+  index: -1
+bee2
+  rotate: false
+  xy: 25, 216
+  size: 80, 75
+  orig: 80, 75
+  offset: 0, 0
+  index: -1
+moveBoard
+  rotate: false
+  xy: 149, 349
+  size: 141, 14
+  orig: 141, 14
+  offset: 0, 0
+  index: -1
+sprideWeb1
+  rotate: false
+  xy: 251, 697
+  size: 77, 73
+  orig: 77, 73
+  offset: 0, 0
+  index: -1
+sprideWeb2
+  rotate: false
+  xy: 333, 774
+  size: 77, 73
+  orig: 77, 73
+  offset: 0, 0
+  index: -1
+iron11
+  rotate: false
+  xy: 25, 191
+  size: 62, 23
+  orig: 62, 23
+  offset: 0, 0
+  index: -1
+iron31
+  rotate: false
+  xy: 149, 324
+  size: 62, 23
+  orig: 62, 23
+  offset: 0, 0
+  index: -1
+iron32
+  rotate: false
+  xy: 107, 229
+  size: 23, 62
+  orig: 23, 62
+  offset: 0, 0
+  index: -1
+iron41
+  rotate: false
+  xy: 251, 672
+  size: 62, 23
+  orig: 62, 23
+  offset: 0, 0
+  index: -1
+iron42
+  rotate: false
+  xy: 25, 127
+  size: 23, 62
+  orig: 23, 62
+  offset: 0, 0
+  index: -1
+iron12
+  rotate: false
+  xy: 25, 64
+  size: 23, 61
+  orig: 23, 61
+  offset: 0, 0
+  index: -1
+iron21
+  rotate: false
+  xy: 149, 299
+  size: 61, 23
+  orig: 61, 23
+  offset: 0, 0
+  index: -1
+iron22
+  rotate: false
+  xy: 1, 1
+  size: 23, 61
+  orig: 23, 61
+  offset: 0, 0
+  index: -1
+nail
+  rotate: false
+  xy: 479, 922
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1

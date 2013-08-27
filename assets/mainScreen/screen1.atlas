@@ -1,0 +1,19 @@
+
+screen1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background
+  rotate: false
+  xy: 1, 149
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 1, 1
+  size: 323, 146
+  orig: 323, 146
+  offset: 0, 0
+  index: -1

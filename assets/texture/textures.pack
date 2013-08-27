@@ -1,0 +1,66 @@
+
+texture.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background1
+  rotate: false
+  xy: 1, 173
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+background2
+  rotate: false
+  xy: 483, 173
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+boardV1
+  rotate: false
+  xy: 965, 461
+  size: 31, 512
+  orig: 31, 512
+  offset: 0, 0
+  index: -1
+boardH1
+  rotate: false
+  xy: 1, 131
+  size: 414, 40
+  orig: 414, 40
+  offset: 0, 0
+  index: -1
+food
+  rotate: false
+  xy: 1, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ball1
+  rotate: false
+  xy: 131, 59
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
+
+texture2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background3
+  rotate: false
+  xy: 1, 1
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+ball2
+  rotate: false
+  xy: 483, 545
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
